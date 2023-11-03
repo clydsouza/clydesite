@@ -5,11 +5,11 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
+    <title>ClUde D'Souza</title>
     <subtitle>An example to get you started</subtitle>
 
-    <!-- Include frontmatter -->
-    <xi:include href="./frontmatter.ptx" />
+    <!-- Include About -->
+    <xi:include href="./About.ptx" />
 
     <!-- Include chapters -->
     <xi:include href="./ch-chapter-title.ptx" />
