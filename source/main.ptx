@@ -5,7 +5,7 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Clyde D'Souza</title>
+    <title>ClYRde D'Souza</title>
     <subtitle>An example to get you started</subtitle>
 
     <!-- Include About -->
